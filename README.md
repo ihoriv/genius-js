@@ -1,0 +1,2 @@
+# genius-js
+Learning project
